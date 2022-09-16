@@ -52,6 +52,7 @@ console.log(newStory); //←できてるか確認用
   }
 
 console.log(newStory); //←できてるか確認用
+console.log(newStory); //←クローンの変更をプッシュできるのかテスト
 
   if(document.getElementById('jp').checked) {
     let weight = Math.round(136.078);
